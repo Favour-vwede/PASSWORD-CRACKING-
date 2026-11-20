@@ -58,13 +58,13 @@ The exercise explores how password hashes are extracted from PDF files and how p
 ## Method 2: Using Networkwalks Tools
 
 ### Step 1: Generate the Hash
-- I opened the Networkwalks Hash Calculator and input the locked pdf file 
+- I opened the Networkwalks Hash Calculator and input the locked pdf file ( https://networkwalks.com/hash-calculator/ ).
 
 ### Step 2: Copy the Hash
 - I Copied the generated hash from the Hash Calculator.
 
 ### Step 3: Open the Password Cracker
-- Navigate to the Networkwalks Password Cracker.
+- Navigate to the Networkwalks Password Cracker (https://networkwalks.com/password-cracker/).
 - Paste the copied hash into the appropriate input field.
 
 ### Step 4: Start the Cracking Process
